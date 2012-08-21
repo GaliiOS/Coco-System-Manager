@@ -1,12 +1,11 @@
-
-luna-sysmgr
+Coco-System-Manager
 ============
 
-luna-sysmgr is responsible for rendering webOS Card View, Launcher, Lock Screen, Status Bar and Status Menus, in addition to other system management features that are viewable in the System Manager User Interface.
+Coco-System-Manager is responsible for rendering webOS Card View, Launcher, Lock Screen, Status Bar and Status Menus, in addition to other system management features that are viewable in the System Manager User Interface.
 
-luna-sysmgr is also responsible for hosting a WebKit shared library, WebApp Management, for rendering of Enyo applications.
+Coco-System-Manager is also responsible for hosting a WebKit shared library, WebApp Management, for rendering of Enyo applications.
 
-This is the current active development repository for luna-sysmgr.
+This is the current active development repository for Coco-System-Manager.
 
 
 How to Build on Linux
